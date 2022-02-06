@@ -77,6 +77,12 @@
     "/biodiscover/:channel?": [
         "aidistan"
     ],
+    "/bioone/featured": [
+        "nczitzk"
+    ],
+    "/bioone/journals/:journal?": [
+        "nczitzk"
+    ],
     "/bit/rszhaopin": [
         "nczitzk"
     ],
@@ -1002,6 +1008,9 @@
         "AlexdanerZe",
         "TonyRL"
     ],
+    "/zaobao/interactive-graphics": [
+        "shunf4"
+    ],
     "/zaobao/realtime/:section?": [
         "shunf4"
     ],
@@ -1009,9 +1018,6 @@
         "shunf4"
     ],
     "/zaobao/:type/:section": [
-        "shunf4"
-    ],
-    "/zaobao/interactive-graphics": [
         "shunf4"
     ],
     "/zjgtjy/:type?": [
@@ -2780,7 +2786,6 @@
     "/sznews/press": [],
     "/sznews/ranking": [],
     "/shuax/project/:name?": [],
-    "/bioone/featured": [],
     "/obsidian/announcements": [],
     "/jlbtc/kyc/:category?": [],
     "/jlbtc/jwc/:id?": [],
