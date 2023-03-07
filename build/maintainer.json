@@ -4157,6 +4157,9 @@
         "hang333",
         "TonyRL"
     ],
+    "/sony/downloads/:productType/:productId": [
+        "NavePnow"
+    ],
     "/soundofhope/:channel/:id": [
         "Fatpandac"
     ],
@@ -5045,6 +5048,9 @@
     ],
     "/xmnn/epaper/:id?": [
         "nczitzk"
+    ],
+    "/xsijishe/forum/:fid": [
+        "akynazh"
     ],
     "/xueqiu/column/:id": [
         "TonyRL"
